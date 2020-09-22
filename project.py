@@ -45,7 +45,7 @@ while nexts == True:
     else:
         print('please check your no. and try again')
 
-    next = True if input(' Shall we do it again?') == 'Y' else False
+    nexts = True if input(' Shall we do it again?') == 'Y' else False
 
 
 
